@@ -1,0 +1,10 @@
+yarn create react-app web --template typescript
+yarn add styled-components
+yarn add @types/styled-components -D
+yarn add react-switch
+yarn add react-icons
+yarn add react-router-dom
+yarn add @types/react-router-dom
+yarn add react-countup
+yarn add recharts
+yarn add @types/recharts -D
